@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "application.jwt.tokenExpirationAfterDays",
+      "type": "java.lang.String",
+      "description": "Description for application.jwt.tokenExpirationAfterDays."
+    },
+    {
+      "name": "application.jwt.secretKey",
+      "type": "java.lang.String",
+      "description": "Description for application.jwt.secretKey."
+    },
+    {
+      "name": "application.datasource.prepStmtCacheSize",
+      "type": "java.lang.String",
+      "description": "Description for application.datasource.prepStmtCacheSize."
+    }
+  ] }
